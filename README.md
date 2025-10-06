@@ -32,31 +32,21 @@ Exemplo:
 
 ## Criando agentes
 - Criar um Copilot baseado em modelo
-<table>
-    <tr>
-        <td align="center">
-            <img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_modelo.png" alt="Exemplo de agentes já existentes"  width="35%"><br/>
-        </td>
-        <td align="center">
-            <img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_modelo_1.png" alt="Tela de criação"  width="35%"><br/>
-        </td>
-    </tr>
-</table>
+
+<img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_modelo.png" alt="Exemplo de agentes já existentes"><br/>
+
+<img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_modelo_1.png" alt="Tela de criação"><br/>
 
 - Criar um Copilot baseado em descrição com IA
-<img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_descri%C3%A7%C3%A3o.png" alt= "Criando por meio de prompt"  width="35%"><br/>
+
+<img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_descri%C3%A7%C3%A3o.png" alt= "Criando por meio de prompt"><br/>
 
 - Criar um Copilot em branco
-<table>
-    <tr>
-        <td align="center">
-            <img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_branco.png" alt="Como criar"  width="35%"><br/>
-        </td>
-        <td align="center">
-            <img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_branco_1.png" alt="Tela de criação"  width="35%"><br/>
-        </td>
-    </tr>
-</table>
+
+<img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_branco.png" alt="Como criar"><br/>
+
+<img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_branco_1.png" alt="Tela de criação"><br/>
+
 
 ## Observações:
 - 1.11.24.1 - fase_projeto.mês_desenvolvimento.ano.versão_trabalhada

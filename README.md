@@ -35,25 +35,25 @@ Exemplo:
 <table>
     <tr>
         <td align="center">
-            <img src="" alt=""  width="35%"><br/>
+            <img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_modelo.png" alt="Exemplo de agentes já existentes"  width="35%"><br/>
         </td>
         <td align="center">
-            <img src="" alt=""  width="35%"><br/>
+            <img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_modelo_1.png" alt="Tela de criação"  width="35%"><br/>
         </td>
     </tr>
 </table>
 
 - Criar um Copilot baseado em descrição com IA
-<img src="" alt=""  width="35%"><br/>
+<img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_descri%C3%A7%C3%A3o.png" alt= "Criando por meio de prompt"  width="35%"><br/>
 
 - Criar um Copilot em branco
 <table>
     <tr>
         <td align="center">
-            <img src="" alt=""  width="35%"><br/>
+            <img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_branco.png" alt="Como criar"  width="35%"><br/>
         </td>
         <td align="center">
-            <img src="" alt=""  width="35%"><br/>
+            <img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_branco_1.png" alt="Tela de criação"  width="35%"><br/>
         </td>
     </tr>
 </table>

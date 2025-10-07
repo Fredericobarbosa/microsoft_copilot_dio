@@ -48,6 +48,20 @@ Exemplo:
 <img src="https://github.com/Fredericobarbosa/microsoft_copilot_dio/blob/main/img/Copilot_branco_1.png" alt="Tela de criação"><br/>
 
 
+## Tópicos
+- São conversas dentro de um copiloto (ramificações)
+- Elas são fixas 
+- Sistema (tópico que a Microsoft cria) ou Customização 
+- Sempre tem:
+    - 1 gatilho com frases
+    - 1 ou mais ações
+
+## Melhores práticas do tópico
+- Ter de 5-10 frases dentro de um gatilho
+- Ter nomes claros e não repetitivos
+- Ter frases de gatilho que não conflitem entre outros tópicos
+- Ter em mente quando dividir os tópicos ou copilotos diferentes
+
 ## Observações:
 - 1.11.24.1 - fase_projeto.mês_desenvolvimento.ano.versão_trabalhada
 - Para a criação de agentes é melhor de ser feito o prompt em inglês

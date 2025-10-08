@@ -62,6 +62,54 @@ Exemplo:
 - Ter frases de gatilho que não conflitem entre outros tópicos
 - Ter em mente quando dividir os tópicos ou copilotos diferentes
 
+## Entidades
+- Um modelo pré-definido ou personalizado usado para capturar e estruturar informações específicas fornecidas pelo usuário.
+- Uma parte significativa das conversas do copiloto no Copilot Studio é o reconhecimento de linguagem natural, que é a capacidade da IA de compreender a intenção do usuário.
+- **Uma entidade** pode ser considerada uma unidade de informação que representa um certo **tipo de assunto**.
+- **Tipos de entidades:**
+    - Entidades predefinidas:
+        - Idade
+        - Verdadeiro e Falso
+        - Cidade
+        - Cor
+        - etc...
+    - Entidades personalizadas:
+        - Closed list (Lista fechada)
+        - Regular expression (Regex)
+- **Resumo:** As entidades podem facilitar as **entradas do usuário** sem a necessidade de usar a parte de Resposta Generativa ou AI Builder dentro do Copilot Studio para **reconhecer informações já mapeadas**.
+
+## Melhores práticas de uma entidade
+- Definir um nome claro
+- Descrever a sua entidade para outros darem a manutenção no futuro
+- Definir sinônimos para garantir o mapeamento
+- Usar Regex sempre que possível para identificar padrões
+
+## Preenchimento de slot
+- O preenchimento de slot é um **conceito de reconhecimento de linguagem natural** que significa salvar uma entidade extraída para um objeto.
+- No entanto, no Copilot Studio, o preenchimento do slot significa colocar o **valor da entidade** extraída em uma **variável**.
+
+## Variáveis
+- Elementos usados para armazenar e reutilizar informações obtidas durante a conversa.
+- As variáveis servem para **salvar respostas** do usuário e **reutilizar seu conteúdo** posteriormente na conversa.
+- Também pode usar variáveis para **criar expressões lógicas** que direcionam dinamicamente o usuário por diferentes caminhos de conversa.
+- **Tipos de variáveis:**
+    - Tópico: conversas das quais não se tem uma necessidade alta de salvamento de dados relacionados, salvamento relacionado a um tópico em específico.
+    - Variáveis globais: salvamento de dados durante uma sessão
+    - Variáveis de sistema:  salvamento de dados criados e controlados pela Microsoft
+    - Variáveis de ambiente: reutilização de variaveis por meio de mudança de ambientes
+- **Tipos de base de variáveis:**
+    - Cadeia de caracteres
+    - Booleano
+    - Número
+    - Tabela
+    - Registro
+    - DateTime
+    - Opção
+    - Em branco
+
 ## Observações:
 - 1.11.24.1 - fase_projeto.mês_desenvolvimento.ano.versão_trabalhada
 - Para a criação de agentes é melhor de ser feito o prompt em inglês
+- Ramificação ocorre dentro do mesmo tópico, enquanto a transição conecta tópicos diferentes.
+- **Fallback:** Esse tópico do sistema é disparado quando o enunciado do usuário não corresponde aos tópicos existentes.
+- **Smart matching/ Correspondência inteligente:** o agente pode corrigir automaticamente os erros ortográficos e expandir sua lógica de correspondência semanticamente.

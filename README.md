@@ -107,6 +107,23 @@ Exemplo:
     - Opção
     - Em branco
 
+## Fórmulas
+-**Exemplos de casos reais:**
+    - Comparar duas datas para férias
+    - Customizar o nome do usuário
+    - Verificar se uma data está dentro do período
+    - Calcular preço com imposto
+    - Verificar se tem um produto no estoque
+    - Calcular a média de preço
+
+- Para se encontrar uma variável para utilizar na fórmula se utiliza:
+    - Topic. - se for uma variável de tópico
+    - Global. - se for uma variável global
+    - Env. - se for uma variável de sistema
+
+## Knowledge Sources
+- São os dados e documentos que o agente usa para responder às perguntas dos usuários, permitindo que ele acesse e utilize informações de forma inteligente.
+
 ## Observações:
 - 1.11.24.1 - fase_projeto.mês_desenvolvimento.ano.versão_trabalhada
 - Para a criação de agentes é melhor de ser feito o prompt em inglês
